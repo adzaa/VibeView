@@ -16,12 +16,11 @@ Movie and TV Show Explorer is designed to help users find and explore their favo
 ## Setup
 
 To run Movie and TV Show Explorer locally:
-
-1. **Clone this repository**:
-
    
    git clone https://github.com/yourusername/VibeView.git
    cd VibeView 
    npm install && npm start
+
+   To use the api when you clone it you need to make .env file in root and add api url and key.
 
 
